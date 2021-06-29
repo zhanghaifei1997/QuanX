@@ -2,7 +2,7 @@
   "name": "公众号少年歌行pro 定时任务订阅",     // 订阅名称
   "author": "https://t.me/sngxpro",    // 订阅制作者，可省略
   "date": "2021-03-1 8:32:04",      // 订阅生成时间，可省略
-  "surl": "https://raw.githubusercontent.com/sngxpro/QuanX/master/task/sngxprov2p.json.json",  // 原始订阅链接，可省略
+  "surl": "https://raw.githubusercontent.com/Oreomeow/QuanX/master/task/sngxprov2p.json.json",  // 原始订阅链接，可省略
   "desc": "该订阅由公众号少年歌行pro维护，仅可用于 elecV2P, 与其他软件并不兼容。",
   "list": [                           // 任务列表。任务格式参考上面的 task.list 部分
     {

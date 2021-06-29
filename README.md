@@ -16,11 +16,11 @@
  
 【圈x订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/task/AllinOne.json
 
 【v2p订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/V2pTaskSub/sngxprov2p.json
 
 【青龙拉取大佬修复脚本仓库命令】
 
@@ -52,18 +52,18 @@ https://t.me/shao66
  
 【圈x订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/task/AllinOne.json
 
 【v2p订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/V2pTaskSub/sngxprov2p.json
 
 
 #### 不通用jd cookie，需要使用下方规则单抓，但此规则和其他规则冲突，因此单独配置了重写，抓ck时勾选，抓后马上关掉
 
 #京东代收货获取ck，和其他规则都冲突，用时候勾选，抓到cookie后立即关闭
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/jddsh.conf, tag=京东待收货（和其他规则都冲突抓完关）, update-interval=86400, opt-
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/rewrite/jddsh.conf, tag=京东待收货（和其他规则都冲突抓完关）, update-interval=86400, opt-
 
 
 -----------------------
@@ -87,11 +87,11 @@ https://t.me/shao66
 
 【v2p for 安卓软件】脚本订阅地址：
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/v2pAndroid.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/V2pTaskSub/v2pAndroid.json
 
 【v2p for 安卓软件】获取cookie订阅规则：
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/Android/rewrite/getcookie.conf
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/Android/rewrite/getcookie.conf
 
 -----------------------
 #公众号：少年歌行pro
@@ -115,11 +115,11 @@ https://t.me/shao66
  
 【圈x订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/task/AllinOne.json
 
 【v2p订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/V2pTaskSub/sngxprov2p.json
 
 【青龙拉star261库教程】
 
@@ -156,11 +156,11 @@ https://t.me/shao66
  
 【圈x订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/task/AllinOne.json
 
 【v2p订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/V2pTaskSub/sngxprov2p.json
 
 【青龙拉动物园库教程】
 
@@ -217,18 +217,18 @@ https://t.me/shao66
  
 【圈x订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/task/AllinOne.json
 
 【v2p订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/V2pTaskSub/sngxprov2p.json
 
 #### `左边众测试用`需配合以下【圈x】重写订阅获取cookie后使用
 
 #### 京东脚本需配合jd cookie使用
 
 `
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
 
 `
 
@@ -259,16 +259,16 @@ https://raw.githubusercontent.com/CenBoMin/GithubSync/main/DKDVIDEO/readme.js
  
 【圈x订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/task/AllinOne.json
 
 【v2p订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/V2pTaskSub/sngxprov2p.json
 
 #### 需配合以下【圈x】重写订阅获取cookie后使用
 
 `
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
 
 `
 
@@ -297,15 +297,15 @@ https://t.me/shao66
  
 【圈x订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/task/AllinOne.json
 
 【v2p订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/V2pTaskSub/sngxprov2p.json
 
 【v2p for 安卓 订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/v2pAndroid.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/V2pTaskSub/v2pAndroid.json
 
 【青龙拉取动物园库查看tg群教程】
 
@@ -318,14 +318,14 @@ https://t.me/shao66/1663
 【圈x】重写订阅
 
 `
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
 
 `
 
 【v2p for 安卓 订阅地址】
 
 `
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/Android/rewrite/getcookie.conf
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/Android/rewrite/getcookie.conf
 
 `
 
@@ -352,11 +352,11 @@ https://t.me/shao66
  
 【圈x订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/task/AllinOne.json
 
 【v2p订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/V2pTaskSub/sngxprov2p.json
 
 【青龙拉取温某人库查看tg群教程】
 
@@ -382,11 +382,11 @@ https://t.me/shao66
  
 【圈x订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/task/AllinOne.json
 
 【v2p订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/V2pTaskSub/sngxprov2p.json
 
 【青龙拉取胖虎库查看tg群教程】
 
@@ -414,11 +414,11 @@ https://t.me/shao66
  
 【圈x订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/task/AllinOne.json
 
 【v2p订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/V2pTaskSub/sngxprov2p.json
 
 【青龙拉取胖虎库查看tg群教程】
 
@@ -461,11 +461,11 @@ export activity="这里填获取的商品activityId"
  
 【圈x订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/task/AllinOne.json
 
 【v2p订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/V2pTaskSub/sngxprov2p.json
 
 【青龙拉取动物园库、胖虎库查看tg群教程】
 
@@ -493,11 +493,11 @@ https://t.me/shao66
  
 【圈x订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/task/AllinOne.json
 
 【v2p订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/V2pTaskSub/sngxprov2p.json
 
 【青龙拉取胖虎仓库查看tg群教程】
 
@@ -530,11 +530,11 @@ https://t.me/shao66
  
 【圈x订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/task/AllinOne.json
 
 【v2p订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/V2pTaskSub/sngxprov2p.json
 
 【青龙拉取Zoopanda仓库查看tg群教程】
 
@@ -558,11 +558,11 @@ https://t.me/shao66/1663
  
 【圈x订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/task/AllinOne.json
 
 【v2p订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/V2pTaskSub/sngxprov2p.json
 
 【青龙拉取ZCY01仓库命令】
 
@@ -588,11 +588,11 @@ ql repo https://github.com/ZCY01/daily_scripts.git "jd_"
  
 【圈x订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/task/AllinOne.json
 
 【v2p订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/V2pTaskSub/sngxprov2p.json
 
 【青龙拉取胖虎仓库命令查看tg群教程】
 
@@ -603,7 +603,7 @@ https://t.me/shao66/1663
 #### 注意：保时捷小程序脚本需配合下方重写规则获取cookie后使用
 
 ```
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
 
 ```
 
@@ -626,11 +626,11 @@ https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/rewri
  
 【圈x订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/task/AllinOne.json
 
 【v2p订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/V2pTaskSub/sngxprov2p.json
 
 【注意！！！青龙拉取star261仓库命令】
 
@@ -661,11 +661,11 @@ export InviterPin="dS%2Bp85VyjydPuAOOnFP%2Faw%3D%3D" ##你的邀请码
  
 【圈x订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/task/AllinOne.json
 
 【v2p订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/V2pTaskSub/sngxprov2p.json
 
 【注意！！！青龙拉取ddo仓库教程】
 
@@ -688,11 +688,11 @@ https://t.me/shao66/1663
  
 【圈x订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/task/AllinOne.json
 
 【v2p订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/V2pTaskSub/sngxprov2p.json
 
 【青龙拉取此脚本命令】
 
@@ -714,11 +714,11 @@ ql raw https://ghproxy.com/https://raw.githubusercontent.com/xl2101200/-/main/jd
  
 【圈x订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/task/AllinOne.json
 
 【v2p订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/V2pTaskSub/sngxprov2p.json
 
 【青龙拉取某已不想透露姓名库教程】（tg中查看下方链接查阅）
 
@@ -748,11 +748,11 @@ https://t.me/shao66/1663
  
 【圈x订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/task/AllinOne.json
 
 【v2p订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/V2pTaskSub/sngxprov2p.json
 
 【青龙拉取某已不想透露姓名库教程】（tg中查看下方链接查阅）
 
@@ -786,11 +786,11 @@ export shopid1="1607"  ##你要商品ID 茅台
  
 【圈x订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/task/AllinOne.json
 
 【v2p订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/V2pTaskSub/sngxprov2p.json
 
 【青龙拉取胖虎库教程】（tg中查看下方链接查阅）
 
@@ -820,11 +820,11 @@ https://t.me/shao66/1671
  
 【圈x订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/task/AllinOne.json
 
 【v2p订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/V2pTaskSub/sngxprov2p.json
 
 【青龙拉取胖虎库】
 
@@ -870,11 +870,11 @@ export packetId="" ##你要参加砍价的邀请码
  
 【圈x订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/task/AllinOne.json
 
 【v2p订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/V2pTaskSub/sngxprov2p.json
 
 【青龙拉取胖虎库教程】（tg中查看下方链接查阅）
 
@@ -897,11 +897,11 @@ https://t.me/shao66/1671
  
 【圈x订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/task/AllinOne.json
 
 【v2p订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/V2pTaskSub/sngxprov2p.json
 
 【青龙拉取0301库】（可能还未同步）
 
@@ -923,11 +923,11 @@ https://t.me/shao66/1671
  
 【圈x订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/task/AllinOne.json
 
 【v2p订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/V2pTaskSub/sngxprov2p.json
 
 【青龙拉取胖虎库】
 
@@ -955,11 +955,11 @@ https://h5.mgtv.com/2021/h5/60a608f6726e3f50c2942730/?inv=d75f73f2de2b47b2bd913a
  
 【圈x订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/task/AllinOne.json
 
 【v2p订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/V2pTaskSub/sngxprov2p.json
 
 【青龙拉取京喜牧场命令】
 
@@ -971,7 +971,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTa
 #### 已添加过下面重写的无需重新添加，圈x首页长按风车---点左下角更新按钮，等左上角数字清零后即可
 
 ```
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
 
 ````
 
@@ -993,11 +993,11 @@ https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/rewri
  
 【圈x订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/task/AllinOne.json
 
 【v2p订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/V2pTaskSub/sngxprov2p.json
 
 【青龙拉取脚本库命令】
 
@@ -1023,11 +1023,11 @@ https://t.me/shao66/1663
  
 【圈x订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/task/AllinOne.json
 
 【v2p订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/V2pTaskSub/sngxprov2p.json
 
 【青龙拉取脚本库命令】
 
@@ -1055,11 +1055,11 @@ https://t.me/shao66/1655
  
 【圈x订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/task/AllinOne.json
 
 【v2p订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/V2pTaskSub/sngxprov2p.json
 
 【青龙拉取脚本库命令】
 
@@ -1084,11 +1084,11 @@ https://t.me/shao66/1655
  
 【圈x订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/task/AllinOne.json
 
 【v2p订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/V2pTaskSub/sngxprov2p.json
 
 【青龙拉取单脚本命令】
 
@@ -1112,11 +1112,11 @@ ql raw https://raw.githubusercontent.com/jiulan/platypus/main/scripts/jd_ffl.js
  
 【圈x订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/task/AllinOne.json
 
 【v2p订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/V2pTaskSub/sngxprov2p.json
 
 【青龙拉取上述2大佬仓库命令】
 
@@ -1144,11 +1144,11 @@ ql repo https://github.com/Wenmoux/scripts.git "jd"
  
 【圈x订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/task/AllinOne.json
 
 【v2p订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/V2pTaskSub/sngxprov2p.json
 
 
 #### 注意：需配合jd cookie使用
@@ -1165,11 +1165,11 @@ https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTa
  
 【圈x订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/task/AllinOne.json
 
 【v2p订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/V2pTaskSub/sngxprov2p.json
 
 
 【青龙拉取zoo库】
@@ -1205,11 +1205,11 @@ ql repo https://github.com/zooPanda/zoo.git "zoo"
  
 【圈x订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/task/AllinOne.json
 
 【v2p订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/V2pTaskSub/sngxprov2p.json
 
 【青龙拉取hyzaw库（目前仅一个脚本，以后看看其他脚本格式再定是否修改命令）】
 
@@ -1233,11 +1233,11 @@ ql repo https://github.com/hyzaw/scripts.git "ddo_"
  
 【圈x订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/task/AllinOne.json
 
 【v2p订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/V2pTaskSub/sngxprov2p.json
 
 【青龙拉取wenmoux库】
 ql repo https://ghproxy.com/https://github.com/Wenmoux/scripts.git "jd"
@@ -1259,11 +1259,11 @@ ql repo https://ghproxy.com/https://github.com/Wenmoux/scripts.git "jd"
  
 【圈x订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/task/AllinOne.json
 
 【v2p订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/V2pTaskSub/sngxprov2p.json
 
 【青龙拉取胖虎库】
 ql repo https://ghproxy.com/https://github.com/panghu999/panghu.git "jd_"
@@ -1282,11 +1282,11 @@ ql repo https://ghproxy.com/https://github.com/panghu999/panghu.git "jd_"
  
 【圈x订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/task/AllinOne.json
 
 【v2p订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/V2pTaskSub/sngxprov2p.json
 
 【青龙稍等一会拉取0301仓库一次，目前还没同步过来】
 
@@ -1310,11 +1310,11 @@ https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTa
  
 【圈x订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/task/AllinOne.json
 
 【v2p订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/V2pTaskSub/sngxprov2p.json
 
 【青龙拉取zoopanda仓库命令】
 
@@ -1335,11 +1335,11 @@ ql repo https://github.com/zooPanda/zoo.git "zoo"
  
 【圈x订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/task/AllinOne.json
 
 【v2p订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/V2pTaskSub/sngxprov2p.json
 
 【青龙就别费劲跑这个了】
 
@@ -1348,7 +1348,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTa
 #### 注意：勾选下方规则后，圈x首页长按风车---点左下角刷新按钮---到左上角没有红色数字了再去抓ck
 
 ```
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
 
 ````
 
@@ -1365,11 +1365,11 @@ https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/rewri
  
 【圈x订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/task/AllinOne.json
 
 【v2p订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/V2pTaskSub/sngxprov2p.json
 
 【青龙拉取0301仓库运行一次即可更新】
 
@@ -1388,15 +1388,15 @@ https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTa
  
 【圈x订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/task/AllinOne.json
 
 【v2p订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/V2pTaskSub/sngxprov2p.json
 
 【青龙拉取此脚本命令】
 
-ql raw https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/jay_member_olb.js
+ql raw https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/scripts/jay_member_olb.js
 
 
 #### 注意：需配合jd cookie使用
@@ -1420,11 +1420,11 @@ ql raw https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/maste
  
 【圈x订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/task/AllinOne.json
 
 【v2p订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/V2pTaskSub/sngxprov2p.json
 
 【青龙拉取zoopanda仓库命令】
 
@@ -1447,11 +1447,11 @@ ql repo https://github.com/zooPanda/zoo.git "zoo"
  
 【圈x订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/task/AllinOne.json
 
 【v2p订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/V2pTaskSub/sngxprov2p.json
 
 【青龙单独拉取此脚本命令】
 
@@ -1472,11 +1472,11 @@ ql raw https://ghproxy.com/https://raw.githubusercontent.com/Wenmoux/scripts/mas
  
 【圈x订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/task/AllinOne.json
 
 【v2p订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/V2pTaskSub/sngxprov2p.json
 
 【青龙单独拉取此脚本命令】
 
@@ -1497,11 +1497,11 @@ ql raw https://ghproxy.com/https://raw.githubusercontent.com/Wenmoux/scripts/mas
  
 【圈x订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/task/AllinOne.json
 
 【v2p订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/V2pTaskSub/sngxprov2p.json
 
 【青龙单独拉取此脚本命令】
 
@@ -1523,14 +1523,14 @@ ql raw https://ghproxy.com/https://raw.githubusercontent.com/panghu999/panghu/ma
  
 【圈x订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/task/AllinOne.json
 
 【v2p订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/V2pTaskSub/sngxprov2p.json
 
 【青龙拉取命令】
-ql raw https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/jd_party_night.js
+ql raw https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/scripts/jd_party_night.js
 
 
 #### 注意：需配合jd cookie使用
@@ -1550,11 +1550,11 @@ ql raw https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/maste
  
 【圈x订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/task/AllinOne.json
 
 【v2p订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/V2pTaskSub/sngxprov2p.json
 
 
 
@@ -1571,7 +1571,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTa
  
 ### 想知道具体有啥、从哪下载请查阅下方链接
 
-https://github.com/sngxpro/QuanX/blob/master/rewrite/unlockvip.md
+https://github.com/Oreomeow/QuanX/blob/master/rewrite/unlockvip.md
  
 ### 使用方法：需配合下方重写订阅获取cookie后使用
 
@@ -1579,7 +1579,7 @@ https://github.com/sngxpro/QuanX/blob/master/rewrite/unlockvip.md
 
 ```
 [rewrite remote]
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf, tag=少年歌行解锁vip, update-interval=86400, opt-parser=false, enabled=true
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/rewrite/unlockvip.conf, tag=少年歌行解锁vip, update-interval=86400, opt-parser=false, enabled=true
 
 
 ```
@@ -1597,11 +1597,11 @@ https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/rewri
  
 【圈x订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/task/AllinOne.json
 
 【v2p订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/V2pTaskSub/sngxprov2p.json
 
 
 
@@ -1611,7 +1611,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTa
 
 ```
 [rewrite remote]
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
 
 ```
 ------------------------------
@@ -1628,17 +1628,17 @@ https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/rewri
  
 【圈x订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/task/AllinOne.json
 
 【v2p订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/V2pTaskSub/sngxprov2p.json
 
 【青龙单独拉取上面新增的2个脚本】
 ```
-ql raw https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/member_13.js
+ql raw https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/scripts/member_13.js
 
-ql raw https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/member_12.js
+ql raw https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/scripts/member_12.js
 ```
 
 #### 注意：需配合jd cookie使用
@@ -1657,11 +1657,11 @@ ql raw https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/maste
  
 【圈x订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/task/AllinOne.json
 
 【v2p订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/V2pTaskSub/sngxprov2p.json
 
 【青龙单独拉取京东金榜创造营0301版】
 ```
@@ -1683,11 +1683,11 @@ ql raw https://ghproxy.com/https://raw.githubusercontent.com/panghu999/ningmeng/
  
 【圈x订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/task/AllinOne.json
 
 【v2p订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/V2pTaskSub/sngxprov2p.json
 
 【青龙单独拉取京东金榜创造营0301版】
 ```
@@ -1708,15 +1708,15 @@ ql raw https://ghproxy.com/https://raw.githubusercontent.com/chinnkarahoi/jd_scr
  
 【圈x订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/task/AllinOne.json
 
 【v2p订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/V2pTaskSub/sngxprov2p.json
 
 【青龙单独拉取京东城城分现金自动提现】
 ```
-ql raw https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/member_11.js
+ql raw https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/scripts/member_11.js
 ```
 
 #### 注意：需配合jd cookie使用
@@ -1734,11 +1734,11 @@ ql raw https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/maste
  
 【圈x订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/task/AllinOne.json
 
 【v2p订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/V2pTaskSub/sngxprov2p.json
 
 【青龙单独拉取京东城城分现金自动提现】
 ```
@@ -1763,15 +1763,15 @@ ql raw http://nm66.top/jd_cctx.js
  
 【圈x订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/task/AllinOne.json
 
 【v2p订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/V2pTaskSub/sngxprov2p.json
 
 【青龙单独拉取京东家电星推官0301版】
 ```
-ql raw https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/jd_xtg_help.js
+ql raw https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/scripts/jd_xtg_help.js
 ```
 
 #### 注意：需配合jd cookie使用
@@ -1792,11 +1792,11 @@ ql raw https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/maste
  
 【圈x订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/task/AllinOne.json
 
 【v2p订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/V2pTaskSub/sngxprov2p.json
 
 【青龙单独拉取京东家电星推官0301版】
 ```
@@ -1810,9 +1810,9 @@ ql raw https://ghproxy.com/https://raw.githubusercontent.com/chinnkarahoi/jd_scr
 
 ```
 [rewrite remote]
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/yyzb.conf, tag=云云赚呗（与其他规则冲突）, update-interval=86400, opt-parser=false, enabled=false
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/rewrite/yyzb.conf, tag=云云赚呗（与其他规则冲突）, update-interval=86400, opt-parser=false, enabled=false
 
 
 ```
@@ -1831,11 +1831,11 @@ https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/rewri
  
 【圈x订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/task/AllinOne.json
 
 【v2p订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/V2pTaskSub/sngxprov2p.json
 
 【青龙单独拉取】
 ```
@@ -1855,15 +1855,15 @@ ql raw https://ghproxy.com/https://raw.githubusercontent.com/monk-coder/dust/dus
  
 【圈x订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/task/AllinOne.json
 
 【v2p订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/V2pTaskSub/sngxprov2p.json
 
 【青龙单独拉取】
 ```
-ql raw https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/member_10.js
+ql raw https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/scripts/member_10.js
 ```
 ### 注意：需配合JD cookie使用
 
@@ -1883,11 +1883,11 @@ ql raw https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/maste
  
 【圈x订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/task/AllinOne.json
 
 【v2p订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/V2pTaskSub/sngxprov2p.json
 
 【青龙单独拉取京东618大势新品赏】
 ```
@@ -1915,15 +1915,15 @@ ql raw https://ghproxy.com/https://raw.githubusercontent.com/monk-coder/dust/dus
  
 【圈x订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/task/AllinOne.json
 
 【v2p订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/V2pTaskSub/sngxprov2p.json
 
 【青龙单独拉取京东抽盲盒一次性领豆脚本】
 ```
-ql raw https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/jay_freshgoods.js
+ql raw https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/scripts/jay_freshgoods.js
 ```
 【青龙单独拉取京东领现金兑换10元红包脚本】
 ```
@@ -1936,9 +1936,9 @@ ql raw https://ghproxy.com/https://raw.githubusercontent.com/ddgksf2013/Cuttlefi
 
 ```
 [rewrite remote]
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/Oreomeow/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/debao.conf, tag=德宝小程序（与获取cookie规则冲突）, update-interval=86400, opt-parser=false, enabled=false
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/rewrite/debao.conf, tag=德宝小程序（与获取cookie规则冲突）, update-interval=86400, opt-parser=false, enabled=false
 
 ```
  
@@ -1957,11 +1957,11 @@ https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/rewri
  
 【圈x订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/task/AllinOne.json
 
 【v2p订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/V2pTaskSub/sngxprov2p.json
 
 注意：需配合JD cookie使用
 
@@ -1983,16 +1983,16 @@ https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTa
  
 【圈x订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/task/AllinOne.json
 
 【v2p订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/V2pTaskSub/sngxprov2p.json
 
 注意：一定在圈x首页长按风车--再点一下左下角刷新按钮，等左上角数字清零后才能同步配置！
 ```
 [rewrite remote]
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/Oreomeow/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
 ```
  
  
@@ -2019,12 +2019,12 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=
 
 【圈x订阅地址】
 ```
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/task/AllinOne.json
 
 ```
 【v2p订阅地址】
 ```
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/V2pTaskSub/sngxprov2p.json
 
 ```
 ### 注意：需配合nobyda的通用京东cookie使用！
@@ -2045,13 +2045,13 @@ https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTa
 【圈x订阅地址】
 ```
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/task/AllinOne.json
 
 ```
 【v2p订阅地址】
 ```
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/V2pTaskSub/sngxprov2p.json
 
 ```
 ### 注意：需配合nobyda的通用京东cookie使用！
@@ -2074,13 +2074,13 @@ https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTa
 【圈x订阅地址】
 ```
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/Oreomeow/QuanX/master/task/AllinOne.json
 
 ```
 【v2p订阅地址】
 ```
 需翻墙
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/Oreomeow/QuanX/master/V2pTaskSub/sngxprov2p.json
 
 ```
 ### 注意：需配合nobyda的通用京东cookie使用！
@@ -2096,7 +2096,7 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.jso
 
 ### 更多历史更新内容，请点击下方链接查看
 
-https://github.com/sngxpro/QuanX/blob/master/updata.md
+https://github.com/Oreomeow/QuanX/blob/master/updata.md
 
 ------------------------------------
 
@@ -2109,7 +2109,7 @@ https://github.com/sngxpro/QuanX/blob/master/updata.md
 ```properties
 
  1.复制2021版懒人包订阅地址，如下
-  https://raw.githubusercontent.com/sngxpro/QuanX/master/sngx2021.conf
+  https://raw.githubusercontent.com/Oreomeow/QuanX/master/sngx2021.conf
 
   2.打开QuanX，轻点右下角圆形旋转图标，然后将菜单下拉至最底端，选择“下载”
   
@@ -2146,7 +2146,7 @@ https://github.com/sngxpro/QuanX/blob/master/updata.md
 
 ❤ 【公众号少年歌行pro多网合一订阅地址，包含下方全部仓库的脚本】 
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/Oreomeow/QuanX/master/task/AllinOne.json
 
 ```
 
