@@ -1,4 +1,4 @@
-# 2021年1月22日，未免仓库太臃肿不好查找内容，本图标仓库转移到专用仓库https://github.com/sngxpro/icons
+# 2021年1月22日，未免仓库太臃肿不好查找内容，本图标仓库转移到专用仓库https://github.com/Oreomeow/icons
 
 # 此仓库不再更新，请按上述链接查找新资源
 

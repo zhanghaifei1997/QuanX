@@ -1628,7 +1628,7 @@ https://raw.githubusercontent.com/Oreomeow/QuanX/master/rewrite/unlockvip.conf, 
 2、添加如下新规则
 
 [policy]
-static=TikTok, proxy, img-url=https://raw.githubusercontent.com/sngxpro/icons/main/genshin/diluke.png
+static=TikTok, proxy, img-url=https://raw.githubusercontent.com/Oreomeow/icons/main/genshin/diluke.png
 
 [filter_remote]
 https://raw.githubusercontent.com/Semporia/Quantumult-X/master/Filter/TikTok.list, tag=TikTok, force-policy=TikTok, update-interval=86400, opt-parser=false, enabled=true
@@ -2345,7 +2345,7 @@ https://raw.githubusercontent.com/Oreomeow/QuanX/master/V2pTaskSub/sngxprov2p.js
 
 ### ziye临时boxjs订阅地址
 ```
-https://raw.githubusercontent.com/sngxpro/actionjd/ZIYE/Task/ziye.boxjs.json
+https://raw.githubusercontent.com/Oreomeow/actionjd/ZIYE/Task/ziye.boxjs.json
 ```
 ### 仓库订阅地址：
 ```properties
@@ -3685,7 +3685,7 @@ https://raw.githubusercontent.com/Oreomeow/QuanX/master/rewrite/cookie.conf
 
 1、执意大佬的 TT语音打卡脚本
 
-<img src="https://raw.githubusercontent.com/sngxpro/icons/main/orthers/1.jpg" width="20%">
+<img src="https://raw.githubusercontent.com/Oreomeow/icons/main/orthers/1.jpg" width="20%">
 
 
 #### 可订阅以下仓库获得脚本：

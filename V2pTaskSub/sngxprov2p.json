@@ -2351,7 +2351,7 @@
       "time": "0 7 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/scripts/main/snjc/snjc.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/scripts/main/snjc/snjc.js"
       }
     }, 
     {
