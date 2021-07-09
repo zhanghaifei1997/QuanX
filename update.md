@@ -1,7 +1,7 @@
 ### 公众号少年歌行pro：7月1日 11：50，脚本进行了如下变动：
 ## 公众号少年歌行pro：7月1日 11：50，脚本进行了如下变动：
 
-https://github.com/Youthsongs/QuanX
+https://github.com/Oreomeow/QuanX
 
 
 【新增】
@@ -13,11 +13,11 @@ https://github.com/Youthsongs/QuanX
  
 【圈x订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/QuanX/master/task/AllinOne.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/task/AllinOne.json
 
 【v2p订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/V2pTaskSub/sngxprov2p.json
 
 【青龙拉取柠檬（胖虎）仓库教程地址（TG链接）】
 
@@ -34,7 +34,7 @@ https://t.me/shao66
 
 ## 公众号少年歌行pro：7月1日 11：50，脚本进行了如下变动：
 
-https://github.com/Youthsongs/QuanX
+https://github.com/Oreomeow/QuanX
 
 
 【新增】
@@ -46,11 +46,11 @@ https://github.com/Youthsongs/QuanX
  
 【圈x订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/QuanX/master/task/AllinOne.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/task/AllinOne.json
 
 【v2p订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/V2pTaskSub/sngxprov2p.json
 
 【青龙拉取柠檬（胖虎）仓库教程地址（TG链接）】
 
@@ -72,7 +72,7 @@ https://t.me/shao66
 
 ### 公众号少年歌行pro：7月1日 9：50，脚本进行了如下变动：
 
-https://github.com/Youthsongs/QuanX
+https://github.com/Oreomeow/QuanX
 
 
 【新增】
@@ -88,11 +88,11 @@ https://github.com/Youthsongs/QuanX
  
 【圈x订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/QuanX/master/task/AllinOne.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/task/AllinOne.json
 
 【v2p订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/V2pTaskSub/sngxprov2p.json
 
 【青龙拉取胖虎仓库教程地址（TG链接）】
 
@@ -114,7 +114,7 @@ https://t.me/shao66
 
 ### 公众号少年歌行pro：7月1日 11：50，脚本进行了如下变动：
 
-https://github.com/Youthsongs/QuanX
+https://github.com/Oreomeow/QuanX
 
 【修复】
 
@@ -147,7 +147,7 @@ https://t.me/shao66
 
 ### 公众号少年歌行pro：7月1日 9：50，脚本进行了如下变动：
 
-https://github.com/Youthsongs/QuanX
+https://github.com/Oreomeow/QuanX
 
 【修复】
 
@@ -171,11 +171,11 @@ DWNC_VERSION 填写版本号   1.1.8
  
 【圈x订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/QuanX/master/task/AllinOne.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/task/AllinOne.json
 
 【v2p订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/V2pTaskSub/sngxprov2p.json
 
 【青龙拉取star261大佬仓库教程地址（TG链接）】
 
@@ -205,7 +205,7 @@ https://t.me/shao66
 
 ### 公众号少年歌行pro：7月1日 9：50，脚本进行了如下变动：
 
-https://github.com/Youthsongs/QuanX
+https://github.com/Oreomeow/QuanX
 
 【新增】
 
@@ -216,17 +216,17 @@ https://github.com/Youthsongs/QuanX
  
 【圈x订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/QuanX/master/task/AllinOne.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/task/AllinOne.json
 
 【v2p订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/V2pTaskSub/sngxprov2p.json
 
 #### 脚本需要配合以下重写获取cookie
 
 【由于作者使用了泛域名抓包，容易造成其他app出问题，因为单独做了一个获取ck重写规则，抓取ck的时候勾选，抓完后一定关闭，否则一些不允许解密的app可能会无法正常打开】
 
-https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/QuanX/main/rewrite/dsjziye888.conf, tag=电视家子夜ck（使用泛域名抓完一定关）, update-interval=86400, opt-parser=false, enabled=false
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/main/rewrite/dsjziye888.conf, tag=电视家子夜ck（使用泛域名抓完一定关）, update-interval=86400, opt-parser=false, enabled=false
 
 #公众号：少年歌行pro
 
@@ -243,7 +243,7 @@ https://t.me/shao66
 
 ### 公众号少年歌行pro：7月1日 9：30，脚本进行了如下变动：
 
-https://github.com/Youthsongs/QuanX
+https://github.com/Oreomeow/QuanX
 
 【新增】
 
@@ -265,11 +265,11 @@ https://github.com/Youthsongs/QuanX
  
 【圈x订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/QuanX/master/task/AllinOne.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/task/AllinOne.json
 
 【v2p订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/V2pTaskSub/sngxprov2p.json
 
 【青龙拉取大佬仓库教程地址（TG链接）】
 

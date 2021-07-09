@@ -14,7 +14,7 @@
 
 ### 更新日志请查看：
 
-https://github.com/Youthsongs/QuanX/blob/master/update.md
+https://github.com/Oreomeow/QuanX/blob/master/update.md
 
 ------------------------------------
 
@@ -28,7 +28,7 @@ https://github.com/Youthsongs/QuanX/blob/master/update.md
 
  1.复制`2021版懒人包订阅地址`，如下
  
- https://raw.githubusercontent.com/Youthsongs/QuanX/master/sngx2021.conf
+ https://raw.githubusercontent.com/Oreomeow/QuanX/master/sngx2021.conf
 
   2.打开QuanX，轻点右下角`圆形旋转图标`，然后将菜单下拉至最底端，选择`下载`
   
@@ -49,7 +49,7 @@ https://github.com/Youthsongs/QuanX/blob/master/update.md
 
   1.复制仓库地址
   
-https://raw.githubusercontent.com/Youthsongs/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/Oreomeow/QuanX/master/task/AllinOne.json
 
   2.打开圈x软件，在设置菜单中找到`工具和分析`，选择`构造http请求`
 
