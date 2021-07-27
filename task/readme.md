@@ -4,7 +4,7 @@
 
 ❤ 【公众号少年歌行pro多网合一订阅地址，包含下方全部仓库的脚本】 
 
-https://raw.githubusercontent.com/Oreomeow/QuanX/main/task/AllinOne.json
+https://raw.githubusercontent.com/zhanghaifei1997/QuanX/main/task/AllinOne.json
 
 
 ### 使用方法：
